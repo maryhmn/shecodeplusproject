@@ -1,0 +1,62 @@
+body {
+  font-family: "Alexandria", sans-serif;
+}
+.header h1,
+h2 {
+  text-align: left;
+  margin-left: 30px;
+}
+.header h1 {
+  color: rgb(24, 23, 104);
+  font-size: 56px;
+}
+.header .fahrenheit {
+  color: rgb(67, 65, 163, 0.4);
+  font-weight: normal;
+}
+
+.header .fahrenheit a {
+  text-decoration: none;
+  color: rgb(67, 65, 163, 0.4);
+}
+
+h2,
+h3 {
+  color: rgb(67, 65, 163);
+  font-size: 25px;
+  line-height: 40px;
+}
+.describtion h3 {
+  text-align: center;
+}
+.active {
+  color: rgb(24, 23, 104);
+  font-size: 56px;
+  text-decoration: none;
+}
+.cardstyle {
+  margin-top: 20px;
+  max-width: 600px;
+}
+.searchbar {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.forecast {
+  text-align: center;
+  padding-top: 30px;
+}
+.forecast h4 {
+  color: rgb(67, 65, 163);
+  font-size: 23px;
+}
+.forecast p {
+  color: rgb(67, 65, 163);
+  font-size: 18px;
+  font-weight: 500;
+}
+.h1icon {
+  font-size: 56px;
+  text-align: center;
+  padding-top: 20px;
+}
